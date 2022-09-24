@@ -1,4 +1,5 @@
-
+//https://leetcode.com/problems/palindrome-number/
+//Easy
 
 console.log(twoSum([3, 2, 2], 4))
 
